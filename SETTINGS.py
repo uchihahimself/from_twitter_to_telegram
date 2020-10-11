@@ -1,12 +1,12 @@
-APP_KEY = 'XXXxxXXXXXxxXXXXxXxxxXxxXxXXxxXxXxXxXXXxX' 
-APP_SECRET = 'xxxXXXXXxXxXxxxXXxXxXxxXXXXxxXxXXXxxXXxxXxxxxxX' 
-OAUTH_TOKEN = 'XXxXXXXXxxXXxxXxXxxxXXXxXxxxXxXXXxxXxXxXxxXxxx'
-OAUTH_TOKEN_SECRET = 'XXXxXXXxXxxXXXxXxxXxXXxXXXxXxXXXXxXxXXxXX'
+APP_KEY = 'u5lo5mX6IzAyv9TQJZG5tErDP' 
+APP_SECRET = 'pJ294qcsbwcEty3ePPbGYVbD9sTL2J7dgC7BDdQ4KyoupmAxHS' 
+OAUTH_TOKEN = '1285969065996095488-WqwqIQPP69TovfaCISoY6DkWWgwajY'
+OAUTH_TOKEN_SECRET = 'PIC1rTAs9Q9HD8zpGV7dMC5FMXpWmM5yn5WFhpJHt3li5'
 
 ## Your Telegram Channel Name ##
-channel_name = 'geremysays'
+channel_name = 'uchihacommunity'
 ## Telegram Access Token ##
-telegram_token = 'nnnnnnnnnnnnn:xxxXXXxXxXxXxXXxXxxXxxxxXx'
+telegram_token = '1395164117:AAGmUsXuvPng9mwyWti_hTtfFzVtH075Wtc'
 ## Twitter User Name to get Timeline ##
-user_name = 'GeremySays'
+user_name = 'uchihahimself'
 
